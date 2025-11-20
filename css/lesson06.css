@@ -1,0 +1,28 @@
+li {
+    
+  padding: 5px 5px 5px 0px;
+  list-style: none;
+   font-family: "Instrument Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 200;
+  
+
+}
+a{
+    text-decoration: none;
+    
+    color: black;
+}
+.list {
+
+    background-color: rgb(236, 234, 234);
+    width: 250px ;
+    
+
+}
+.box position {
+    position: fixed;
+}
