@@ -25,22 +25,30 @@ a{
 
 
 
-    .menu{
-        display: inline-block;
-        position: relative;
-        width:750px ;
-        margin-left: 300px;
-    }
 
-    #adv {
-        
-        
-        width: 100px;
-        background-color: bisque;
-       margin-left: 1200px;
-       position: sticky;
-       top: 50px;
+.menu{
+    display: inline-block;
+    position: relative;
+    left: 300px;
+    top: 100px;
+    width: 500px;
 
-    }
+}
 
-    
+   .second {
+    position: absolute;
+    top: 1000px;
+
+   } 
+
+   .adv {
+    position: sticky;
+   margin-left: 1000px;
+   top: 50px;
+
+   
+   }
+   
+   
+   
+   
