@@ -20,9 +20,35 @@ a{
 
     background-color: rgb(236, 234, 234);
     width: 250px ;
+    position: fixed;}
     
 
+
+
+
+.menu{
+    display: inline-block;
+    position: relative;
+    left: 300px;
+    top: 100px;
+    width: 500px;
+
 }
-.box position {
-    position: fixed;
-}
+
+   .second {
+    position: absolute;
+    top: 1000px;
+
+   } 
+
+   .adv {
+    position: sticky;
+   margin-left: 1000px;
+   top: 50px;
+
+   
+   }
+   
+   
+   
+   
